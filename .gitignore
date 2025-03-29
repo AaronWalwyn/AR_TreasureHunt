@@ -36,3 +36,7 @@ sysinfo.txt
 
 #Misc
 *.DSStore
+*.DS_Store
+
+# Raw Image Files
+*.psd

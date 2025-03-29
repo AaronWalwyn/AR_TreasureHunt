@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 49835e89acf244edaa322567627dd645
+timeCreated: 1491827872
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: prison_fence_barbed_wire_large
+    100002: prison_fence_barbed_wire_medium
+    100004: prison_fence_barbed_wire_small
+    100006: prison_fence_base_large
+    100008: prison_fence_base_small
+    100010: prison_fence_corner_in
+    100012: prison_fence_corner_in_nobarbed
+    100014: prison_fence_corner_in_nobarbed_nobase
+    100016: prison_fence_corner_in_nobase
+    100018: prison_fence_corner_out
+    100020: prison_fence_corner_out_nobarbed
+    100022: prison_fence_corner_out_nobase
+    100024: prison_fence_large
+    100026: prison_fence_large_nobarbed
+    100028: prison_fence_large_nobarbed_nobase
+    100030: prison_fence_large_nobase
+    100032: prison_fence_pole
+    100034: prison_fence_single_wire_large
+    100036: prison_fence_single_wire_small
+    100038: prison_fence_small
+    100040: prison_fence_small_nobarbed
+    100042: prison_fence_small_nobarbed_nobase
+    100044: prison_fence_small_nobase
+    100046: //RootNode
+    400000: prison_fence_barbed_wire_large
+    400002: prison_fence_barbed_wire_medium
+    400004: prison_fence_barbed_wire_small
+    400006: prison_fence_base_large
+    400008: prison_fence_base_small
+    400010: prison_fence_corner_in
+    400012: prison_fence_corner_in_nobarbed
+    400014: prison_fence_corner_in_nobarbed_nobase
+    400016: prison_fence_corner_in_nobase
+    400018: prison_fence_corner_out
+    400020: prison_fence_corner_out_nobarbed
+    400022: prison_fence_corner_out_nobase
+    400024: prison_fence_large
+    400026: prison_fence_large_nobarbed
+    400028: prison_fence_large_nobarbed_nobase
+    400030: prison_fence_large_nobase
+    400032: prison_fence_pole
+    400034: prison_fence_single_wire_large
+    400036: prison_fence_single_wire_small
+    400038: prison_fence_small
+    400040: prison_fence_small_nobarbed
+    400042: prison_fence_small_nobarbed_nobase
+    400044: prison_fence_small_nobase
+    400046: //RootNode
+    2300000: prison_fence_barbed_wire_large
+    2300002: prison_fence_barbed_wire_medium
+    2300004: prison_fence_barbed_wire_small
+    2300006: prison_fence_base_large
+    2300008: prison_fence_base_small
+    2300010: prison_fence_corner_in
+    2300012: prison_fence_corner_in_nobarbed
+    2300014: prison_fence_corner_in_nobarbed_nobase
+    2300016: prison_fence_corner_in_nobase
+    2300018: prison_fence_corner_out
+    2300020: prison_fence_corner_out_nobarbed
+    2300022: prison_fence_corner_out_nobase
+    2300024: prison_fence_large
+    2300026: prison_fence_large_nobarbed
+    2300028: prison_fence_large_nobarbed_nobase
+    2300030: prison_fence_large_nobase
+    2300032: prison_fence_pole
+    2300034: prison_fence_single_wire_large
+    2300036: prison_fence_single_wire_small
+    2300038: prison_fence_small
+    2300040: prison_fence_small_nobarbed
+    2300042: prison_fence_small_nobarbed_nobase
+    2300044: prison_fence_small_nobase
+    3300000: prison_fence_barbed_wire_large
+    3300002: prison_fence_barbed_wire_medium
+    3300004: prison_fence_barbed_wire_small
+    3300006: prison_fence_base_large
+    3300008: prison_fence_base_small
+    3300010: prison_fence_corner_in
+    3300012: prison_fence_corner_in_nobarbed
+    3300014: prison_fence_corner_in_nobarbed_nobase
+    3300016: prison_fence_corner_in_nobase
+    3300018: prison_fence_corner_out
+    3300020: prison_fence_corner_out_nobarbed
+    3300022: prison_fence_corner_out_nobase
+    3300024: prison_fence_large
+    3300026: prison_fence_large_nobarbed
+    3300028: prison_fence_large_nobarbed_nobase
+    3300030: prison_fence_large_nobase
+    3300032: prison_fence_pole
+    3300034: prison_fence_single_wire_large
+    3300036: prison_fence_single_wire_small
+    3300038: prison_fence_small
+    3300040: prison_fence_small_nobarbed
+    3300042: prison_fence_small_nobarbed_nobase
+    3300044: prison_fence_small_nobase
+    4300000: prison_fence_barbed_wire_large
+    4300002: prison_fence_barbed_wire_medium
+    4300004: prison_fence_barbed_wire_small
+    4300006: prison_fence_base_large
+    4300008: prison_fence_base_small
+    4300010: prison_fence_corner_in
+    4300012: prison_fence_corner_in_nobarbed
+    4300014: prison_fence_corner_in_nobarbed_nobase
+    4300016: prison_fence_corner_in_nobase
+    4300018: prison_fence_corner_out
+    4300020: prison_fence_corner_out_nobarbed
+    4300022: prison_fence_corner_out_nobase
+    4300024: prison_fence_large
+    4300026: prison_fence_large_nobarbed
+    4300028: prison_fence_large_nobarbed_nobase
+    4300030: prison_fence_large_nobase
+    4300032: prison_fence_pole
+    4300034: prison_fence_single_wire_large
+    4300036: prison_fence_single_wire_small
+    4300038: prison_fence_small
+    4300040: prison_fence_small_nobarbed
+    4300042: prison_fence_small_nobarbed_nobase
+    4300044: prison_fence_small_nobase
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0075
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
